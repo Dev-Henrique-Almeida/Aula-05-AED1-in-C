@@ -1,7 +1,7 @@
 # Aula 05 - Algoritmos e Estruturas de Dados 01
 ## Introdução a Struct em C
 
-Essa é mais uma atividade da matéria de AED1, realizado em 05/008/2022.
+Essa é mais uma atividade da matéria de AED1, realizado em 05/08/2022.
 
 Nessa atividade o intuito era fazer a implementação de uma Livraria, utilizando de struct e funções, como recurso, onde programei na linguagem C.
 
