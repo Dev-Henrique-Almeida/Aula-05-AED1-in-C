@@ -12,6 +12,6 @@ Nessa atividade o intuito era fazer a implementação de uma Livraria, utilizand
 - b) Quantidade de páginas
 - c) Valor em Real
 - d) Valor em Dólar (1 Dólar vale 4,30 Reais)
--  Cadastre um livro utilizando a estrutura criada e exiba o conteúdo do registro.
+- Cadastre um livro utilizando a estrutura criada e exiba o conteúdo do registro.
 - Mude o valor em real e exiba outra vez o conteúdo do registro (Crie uma Função)
 
